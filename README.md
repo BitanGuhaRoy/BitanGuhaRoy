@@ -6,7 +6,8 @@
 🚀 **About Me**  
 - 🧑‍💻 Backend Developer with **1.5+ years** of experience designing and building scalable microservices  
 - 💡 Passionate about **Distributed Systems**, **System Design (LLD & HLD)**, and production-grade engineering  
-- 🔐 Hands-on with **Spring Boot**, **Spring Security (OAuth2 & JWT)**, **Kafka**, **Eureka**, **AWS**, and **Docker**  
+- 🔐 Hands-on with **Spring Boot**, **Spring Security (OAuth2 & JWT)**, **Kafka**, **Redis**, **Eureka**, **AWS**, and **Docker**  
+- 🚀 Achieved **95% latency reduction** in product API by caching RDS queries using **Redis**  
 - 📫 Reach me at: [bitanguharoyofficial@gmail.com](mailto:bitanguharoyofficial@gmail.com)
 
 ---
@@ -16,9 +17,10 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eureka-007396?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
@@ -33,33 +35,33 @@ A Spring Cloud Gateway-based service that routes client requests to the right mi
 - 📦 Built with: Spring Boot, Spring Cloud Gateway, Eureka, Maven  
 
 ### 📧 EmailService – Kafka-based Email Dispatcher
-Consumes messages from Kafka topic `send_email` and sends transactional emails to users using Google API.  
+Consumes messages from Kafka topic `send_email` and sends transactional emails using Google API.  
 - ⚙️ Robust message consumer with retry and logging  
 - ✉️ Integrates with **Google Mail API**  
 - 🛠 Built with: Spring Boot, Kafka, Google API, Maven  
 
 ### 💳 PaymentService – Seamless Payment Integration
-A microservice that manages secure and seamless payment processing for orders.  
-- 🔗 Integrates with external payment providers  
-- 🔐 Secure handling of transactions  
+Manages secure and seamless payment processing for customer orders.  
+- 🔗 Connects with third-party payment providers  
+- 🔐 Secure and reliable transaction flow  
 - 🧰 Built with: Spring Boot, REST APIs, Maven  
 
-### 📦 ProductService – Product Management Microservice
-Service responsible for managing product data including creation, updates, and inventory tracking.  
-- 🗃️ CRUD operations on product catalog  
-- 🔄 Integrates with other services like Order & Payment  
-- ⚙️ Built with: Spring Boot, JPA, Maven  
+### 📦 ProductService – Product Management with Redis Optimization
+Manages all product-related operations and optimizes performance with Redis caching.  
+- 🗃️ CRUD operations for products  
+- 🚀 Integrated **Redis caching** to reduce RDS latency by over **95%**  
+- 🧰 Built with: Spring Boot, PostgreSQL (RDS), Redis, Maven  
 
 ### 🧭 Eureka Server – Service Discovery Registry
-Central service registry that enables all microservices to register and discover each other.  
-- 🧠 Enables **load-balanced communication**  
-- 🩺 Health checks & instance monitoring  
-- 🛡️ Can be scaled for high availability  
+Central registry enabling all microservices to discover and communicate with each other.  
+- 🧠 Dynamic registration and discovery  
+- 🩺 Health checks and monitoring  
+- 🛡️ Configurable for high availability  
 
 ### 👤 UserService – User Management & Authentication
-Handles user registration, login, and authentication using Spring Security.  
-- 🔐 Implements **OAuth2 & JWT**  
-- 👥 Manages user roles and access control  
+Handles user registration, login, and secure authentication using Spring Security.  
+- 🔐 OAuth2 + JWT for robust authentication  
+- 👥 Role-based access control  
 - 🔧 Built with: Spring Boot, Spring Security, OAuth2, JWT
 
 ---
@@ -74,5 +76,5 @@ Handles user registration, login, and authentication using Spring Security.
 
 📎 **Connect with Me**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bitanguharoy/)
-- 💼 [Resume](#) <!-- Add resume link -->
+- 💼 [Resume](https://drive.google.com/file/d/1u60JaieRxs8xehb1C_x-O19eaLyK8r0n/view?usp=sharing) <!-- Add resume link -->
 - 🧠 [LeetCode](https://leetcode.com/BitanGuhaRoy/)
