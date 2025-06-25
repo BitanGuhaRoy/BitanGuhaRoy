@@ -28,7 +28,7 @@
 
 📂 **Featured Projects**
 
-### 🔀 APIGateway – Microservice for Routing Requests
+### 🔀 [APIGateway – Microservice for Routing Requests](https://github.com/BitanGuhaRoy/APIGateway)
 A Spring Cloud Gateway-based service that routes client requests to the right microservice based on path.  
 - 🔍 Uses **Eureka** for dynamic service discovery  
 - ↔️ Handles **forwarding and aggregation** of responses  
