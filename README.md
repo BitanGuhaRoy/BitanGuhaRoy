@@ -7,7 +7,7 @@
 - 🧑‍💻 Backend Developer with **1.5+ years** of experience designing and building scalable microservices  
 - 💡 Passionate about **Distributed Systems**, **System Design (LLD & HLD)**, and production-grade engineering  
 - 🔐 Hands-on with **Spring Boot**, **Spring Security (OAuth2 & JWT)**, **Kafka**, **Eureka**, **AWS**, and **Docker**  
-- 📫 Reach me at: [bitanguharoy@gmail.com](mailto:bitanguharoy@gmail.com)
+- 📫 Reach me at: [bitanguharoyofficial@gmail.com](mailto:bitanguharoyofficial@gmail.com)
 
 ---
 
