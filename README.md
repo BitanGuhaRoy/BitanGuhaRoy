@@ -76,5 +76,4 @@ Handles user registration, login, and secure authentication using Spring Securit
 
 📎 **Connect with Me**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bitanguharoy/)
-- 💼 [Resume](https://drive.google.com/file/d/1u60JaieRxs8xehb1C_x-O19eaLyK8r0n/view?usp=sharing) <!-- Add resume link -->
-- 🧠 [LeetCode](https://leetcode.com/BitanGuhaRoy/)
+
