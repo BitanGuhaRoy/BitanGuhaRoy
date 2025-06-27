@@ -57,7 +57,7 @@ Central registry enabling all microservices to discover and communicate with eac
 - 🩺 Health checks and monitoring  
 - 🛡️ Configurable for high availability  
 
-### 👤 [UserService – User Management & Authentication](https://github.com/BitanGuhaRoy/UserService)
+### 👤 [UserService – User Management & Authentication](https://github.com/BitanGuhaRoy/authorizationserver)
 Handles user registration, login, and secure authentication using Spring Security.  
 - 🔐 OAuth2 + JWT for robust authentication  
 - 👥 Role-based access control  
