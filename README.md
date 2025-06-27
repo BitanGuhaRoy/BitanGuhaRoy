@@ -34,13 +34,13 @@ A Spring Cloud Gateway-based service that routes client requests to the right mi
 - ↔️ Handles **forwarding and aggregation** of responses  
 - 📦 Built with: Spring Boot, Spring Cloud Gateway, Eureka, Maven  
 
-### 📧 [EmailService – Kafka-based Email Dispatcher] (https://github.com/BitanGuhaRoy/EmailService)
+### 📧 [EmailService – Kafka-based Email Dispatcher](https://github.com/BitanGuhaRoy/EmailService)
 Consumes messages from Kafka topic `send_email` and sends transactional emails using Google API.  
 - ⚙️ Robust message consumer with retry and logging  
 - ✉️ Integrates with **Google Mail API**  
 - 🛠 Built with: Spring Boot, Kafka, Google API, Maven  
 
-### 💳 [PaymentService – Seamless Payment Integration] (https://github.com/BitanGuhaRoy/paymentservice)
+### 💳 [PaymentService – Seamless Payment Integration](https://github.com/BitanGuhaRoy/paymentservice)
 Manages secure and seamless payment processing for customer orders.  
 - 🔗 Connects with third-party payment providers  
 - 🔐 Secure and reliable transaction flow  
