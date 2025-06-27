@@ -45,7 +45,7 @@ Manages secure and seamless payment processing for customer orders.
 - 🔐 Secure and reliable transaction flow  
 - 🧰 Built with: Spring Boot, REST APIs, Maven  
 
-### 📦 [ProductService – Product Management with Redis Optimization](https://github.com/BitanGuhaRoy/ProductService)
+### 📦 [ProductService – Product Management with Redis Optimization](https://github.com/BitanGuhaRoy/productservice-role_based_access_control-)
 Manages all product-related operations and optimizes performance with Redis caching.  
 - 🗃️ CRUD operations for products  
 - 🚀 Integrated **Redis caching** to reduce RDS latency by over **95%**  
