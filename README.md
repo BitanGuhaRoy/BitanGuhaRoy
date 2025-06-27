@@ -51,7 +51,7 @@ Manages all product-related operations and optimizes performance with Redis cach
 - 🚀 Integrated **Redis caching** to reduce RDS latency by over **95%**  
 - 🧰 Built with: Spring Boot, PostgreSQL (RDS), Redis, Maven  
 
-### 🧭 Eureka Server – Service Discovery Registry
+### 🧭 [Eureka Server – Service Discovery Registry](https://github.com/BitanGuhaRoy/eurekaserver)
 Central registry enabling all microservices to discover and communicate with each other.  
 - 🧠 Dynamic registration and discovery  
 - 🩺 Health checks and monitoring  
