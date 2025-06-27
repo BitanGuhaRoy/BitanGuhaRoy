@@ -34,19 +34,19 @@ A Spring Cloud Gateway-based service that routes client requests to the right mi
 - ↔️ Handles **forwarding and aggregation** of responses  
 - 📦 Built with: Spring Boot, Spring Cloud Gateway, Eureka, Maven  
 
-### 📧 EmailService – Kafka-based Email Dispatcher
+### 📧 [EmailService – Kafka-based Email Dispatcher] (https://github.com/BitanGuhaRoy/EmailService)
 Consumes messages from Kafka topic `send_email` and sends transactional emails using Google API.  
 - ⚙️ Robust message consumer with retry and logging  
 - ✉️ Integrates with **Google Mail API**  
 - 🛠 Built with: Spring Boot, Kafka, Google API, Maven  
 
-### 💳 PaymentService – Seamless Payment Integration
+### 💳 [PaymentService – Seamless Payment Integration] (https://github.com/BitanGuhaRoy/paymentservice)
 Manages secure and seamless payment processing for customer orders.  
 - 🔗 Connects with third-party payment providers  
 - 🔐 Secure and reliable transaction flow  
 - 🧰 Built with: Spring Boot, REST APIs, Maven  
 
-### 📦 ProductService – Product Management with Redis Optimization
+### 📦 [ProductService – Product Management with Redis Optimization](https://github.com/BitanGuhaRoy/ProductService)
 Manages all product-related operations and optimizes performance with Redis caching.  
 - 🗃️ CRUD operations for products  
 - 🚀 Integrated **Redis caching** to reduce RDS latency by over **95%**  
@@ -58,7 +58,7 @@ Central registry enabling all microservices to discover and communicate with eac
 - 🩺 Health checks and monitoring  
 - 🛡️ Configurable for high availability  
 
-### 👤 UserService – User Management & Authentication
+### 👤 [UserService – User Management & Authentication](https://github.com/BitanGuhaRoy/UserService)
 Handles user registration, login, and secure authentication using Spring Security.  
 - 🔐 OAuth2 + JWT for robust authentication  
 - 👥 Role-based access control  
