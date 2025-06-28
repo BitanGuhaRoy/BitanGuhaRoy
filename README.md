@@ -73,6 +73,16 @@ Handles user registration, login, and secure authentication using Spring Securit
 
 ---
 
+📐 **System Design & Patterns**
+
+### 🧱 [DesignPatterns – Java Design Pattern Examples](https://github.com/BitanGuhaRoy/Design-Patterns)
+A curated repository showcasing classic **creational**, **structural**, and **behavioral** design patterns in Java.  
+- 🧩 Patterns like **Factory**, **Abstract Factory**, **Builder**, **Strategy**, **Observer**, and more  
+- ✍️ Great resource for interview prep and real-world design understanding  
+- 🛠 Built with: Java, Maven, IntelliJ  
+
+---
+
 📎 **Connect with Me**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bitanguharoy/)
 
