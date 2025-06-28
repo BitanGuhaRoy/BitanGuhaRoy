@@ -65,14 +65,6 @@ Handles user registration, login, and secure authentication using Spring Securit
 
 ---
 
-📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BitanGuhaRoy&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BitanGuhaRoy&theme=tokyonight" />
-</p>
-
----
-
 📐 **System Design & Patterns**
 
 ### 🧱 [DesignPatterns – Java Design Pattern Examples](https://github.com/BitanGuhaRoy/Design-Patterns)
@@ -80,6 +72,14 @@ A curated repository showcasing classic **creational**, **structural**, and **be
 - 🧩 Patterns like **Factory**, **Abstract Factory**, **Builder**, **Strategy**, **Observer**, and more  
 - ✍️ Great resource for interview prep and real-world design understanding  
 - 🛠 Built with: Java, Maven, IntelliJ  
+
+---
+
+📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BitanGuhaRoy&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BitanGuhaRoy&theme=tokyonight" />
+</p>
 
 ---
 
